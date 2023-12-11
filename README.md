@@ -7,7 +7,7 @@ Tartalmaz egy-két órai gyakorlat anyagát, illetve a kötlezeő programot. A k
 ---
 A fraktálok végtelenül komplex geometriai alakzatok, amelyek két gyakori, jellemző tulajdonsággal rendelkeznek. Az első, hogy a tradicionálisan a geometria által vizsgált, bizonyos értelemben véve „egyszerűbb” [...] alakzatokkal ellentétben [...] a fraktálok határoló vonalai vagy -felületei végtelenül „gyűröttek”, illetve „szakadásosak” (szakkifejezéssel, nem-differenciálhatóak). A második gyakori jellemzőjük az [...] önhasonlóság.[1]
 
-![Fraktált gif](https://giphy.com/embed/M4ofIAGWCSlIk.gif width="480" height="480")
+![Fraktált gif](https://media1.giphy.com/media/M4ofIAGWCSlIk/giphy.gif)
 
 #### Sierpinski-háromszög
 A Sierpiński-háromszög Wacław Sierpiński lengyel matematikus által megtalált fraktál, amely úgy áll elő, hogy egy szabályos háromszögből elhagyjuk az oldalfelező pontok összekötésével nyert belső háromszöget, majd az így maradt három háromszögre rekurzívan alkalmazzuk ugyanezt az eljárást.[2]
