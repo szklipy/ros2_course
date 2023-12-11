@@ -20,8 +20,9 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-
-        'turtlesim_controller = ros2_course.turtlesim_controller:main',
+        'turtle = ros2_course.turtle:main',
+        'listener = ros2_course.turtle_listener:main',
+        #'turtlesim_controller = ros2_course.turtlesim_controller:main',
         #'talker = ros2_course.talker:main',
         #'listener = ros2_course.listener:main',
 

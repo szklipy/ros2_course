@@ -1,7 +1,7 @@
 import rclpy
 from rclpy.node import Node
 from std_msgs.msg import String
-
+#from ros2_course.turtle import TurtleSierpinski
 
 class MinimalSubscriber(Node):
 
@@ -14,9 +14,15 @@ class MinimalSubscriber(Node):
             10)
         self.subscription  # prevent unused variable warning
 
+        #self.turtle_sierpinski = TurtleSierpinski()
+
+
+
     def listener_callback(self, msg):
         self.get_logger().info('I heard msg: "%s"' % msg.data)
-
+        size = msg.data
+        #self.turtle_sierpinski.screen.clear()
+        #self.turtle_sierpinski.sierpinski(size / 2, size / 2, size)
 
 def main(args=None):
     rclpy.init(args=args)
