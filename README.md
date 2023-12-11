@@ -24,8 +24,15 @@ Egy másik fraktál a Newton-fraktál, ami Newton-módszerrel számítható.
 
 ![Newton-fraktál](https://upload.wikimedia.org/wikipedia/commons/9/9a/Newtroot_1_0_0_m1.png)
 
+
+## Fájlok
+Csak, hogy megkönnyítsem a dolgom, a következő python fájlok képzik a kötelező programot:
+- turtle.py
+- turtle_listener.py
+- turtle_fractal.py
+
 ## ToDo list
-- [ ] Basic: Arányos szabályozó implementálása
+- [x] Basic: Arányos szabályozó implementálása
 - [ ] Advanced: Szöveg vagy fraktált kirajzolása
 - [ ] Epic: Nyűgözz le
 
