@@ -12,17 +12,17 @@ A fraktálok végtelenül komplex geometriai alakzatok, amelyek két gyakori, je
 #### Sierpinski-háromszög
 A Sierpiński-háromszög Wacław Sierpiński lengyel matematikus által megtalált fraktál, amely úgy áll elő, hogy egy szabályos háromszögből elhagyjuk az oldalfelező pontok összekötésével nyert belső háromszöget, majd az így maradt három háromszögre rekurzívan alkalmazzuk ugyanezt az eljárást.[2]
 
-![Sierpinski-háromszög](https://hu.wikipedia.org/wiki/Sierpiński-háromszög#/media/Fájl:SierpinskiTriangle-ani-0-7.gif)
+![Sierpinski-háromszög](https://upload.wikimedia.org/wikipedia/commons/2/27/SierpinskiTriangle-ani-0-7.gif)
 
 #### Püthagorasz-fa
 A Pitagorasz-fa négyzetekből épül fel, amik úgy helyezkednek el, ahogy azt a Pitagorasz-tétel ábrázolásai mutatják.
 
-![Püthagorasz-fa](https://hu.wikipedia.org/wiki/Fraktál#/media/Fájl:PythagorasTree.png)
+![Püthagorasz-fa](https://upload.wikimedia.org/wikipedia/commons/a/a2/PythagorasTree.png)
 
 #### Newton-fraktál
 Egy másik fraktál a Newton-fraktál, ami Newton-módszerrel számítható.
 
-![Newton-fraktál](https://hu.wikipedia.org/wiki/Fraktál#/media/Fájl:Newtroot_1_0_0_m1.png)
+![Newton-fraktál](https://upload.wikimedia.org/wikipedia/commons/9/9a/Newtroot_1_0_0_m1.png)
 
 ## ToDo list
 - [ ] Basic: Arányos szabályozó implementálása
