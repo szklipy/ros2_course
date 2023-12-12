@@ -31,11 +31,6 @@ Egy másik fraktál a Newton-fraktál, ami Newton-módszerrel számítható.
 ![Newton-fraktál](https://upload.wikimedia.org/wikipedia/commons/9/9a/Newtroot_1_0_0_m1.png)
 
 
-## Fájlok
-Csak, hogy megkönnyítsem a dolgom, a következő python fájlok képzik a kötelező programot:
-- turtle.py
-- turtle_listener.py
-- turtle_fractal.py
 
 ## ToDo list
 - [ ] Basic: Arányos szabályozó implementálása
@@ -46,10 +41,23 @@ Csak, hogy megkönnyítsem a dolgom, a következő python fájlok képzik a köt
 
 ## USAGE
 
-How to *build* and use the package
+TurtleSim run
+```
+ros2 run turtlesim turtlesim_node
+```
+Build és futtatás
+```
+cd ros2_ws
+colcon build --symlink-install
+ros2 run ros2_course turtlesim_controller
+```
 
-	cd ~/ros2_ws
-	colcon build --symlink-install
+
+
+Launch - nincs
+```
+ros2 launch package_name file.launch
+```
 
 
 ---
