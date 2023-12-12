@@ -9,6 +9,12 @@ A fraktálok végtelenül komplex geometriai alakzatok, amelyek két gyakori, je
 
 ![Fraktált gif](https://media1.giphy.com/media/M4ofIAGWCSlIk/giphy.gif)
 
+#### Koch-görbe
+A görbét úgy állíthatjuk elő, hogy egy szabályos háromszög oldalait elharmadoljuk, majd a középső harmadára ismét egy szabályos háromszöget rajzolunk.
+
+![Koch-görbe](https://upload.wikimedia.org/wikipedia/commons/f/fd/Von_Koch_curve.gif)
+
+
 #### Sierpinski-háromszög
 A Sierpiński-háromszög Wacław Sierpiński lengyel matematikus által megtalált fraktál, amely úgy áll elő, hogy egy szabályos háromszögből elhagyjuk az oldalfelező pontok összekötésével nyert belső háromszöget, majd az így maradt három háromszögre rekurzívan alkalmazzuk ugyanezt az eljárást.[2]
 
@@ -32,7 +38,7 @@ Csak, hogy megkönnyítsem a dolgom, a következő python fájlok képzik a köt
 - turtle_fractal.py
 
 ## ToDo list
-- [x] Basic: Arányos szabályozó implementálása
+- [ ] Basic: Arányos szabályozó implementálása
 - [ ] Advanced: Szöveg vagy fraktált kirajzolása
 - [ ] Epic: Nyűgözz le
 
